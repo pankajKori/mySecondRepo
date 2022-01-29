@@ -1,3 +1,3 @@
 "My Second Project"
-"college name"
-"education degree"
+"Institute name"
+"education title"
