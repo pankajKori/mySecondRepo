@@ -1,3 +1,3 @@
 "My Second Project"
-"ARMIET"
-"Engineering"
+"college name"
+"education degree"
