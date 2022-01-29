@@ -1,3 +1,5 @@
 "My Second Project"
 "Institute name"
-"education title"
+"ARMIET"
+"qualification degree"
+"Engineer"
